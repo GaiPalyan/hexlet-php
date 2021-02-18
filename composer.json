@@ -1,0 +1,14 @@
+{
+    "name": "hexlet/hexlet-php",
+    "authors": [
+        {
+            "name": "Gai Palyan",
+            "email": "ChadReed020788@yandex.ru"
+        }
+    ],
+    "license": [
+        "LGPL-2.1-only",
+        "GPL-3.0-or-later"
+    ],
+    "require": {}
+}
